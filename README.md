@@ -1,5 +1,8 @@
 ## Hi there,I'm Min-ho 👋
+
+### Algorithm
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=qkd12tkd)](https://solved.ac/profile/qkd12tkd)
+##
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=yollo4179)](https://solved.ac/profile/yollo4179)
 
 ## 🛠 Tech Stack
