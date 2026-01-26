@@ -1,11 +1,12 @@
 ## Hi there,I'm Min-ho 👋
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=qkd12tkd)](https://solved.ac/profile/qkd12tkd)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=yollo4179)](https://solved.ac/profile/yollo4179)
 
 <!--
 **yollo4179/yollo4179** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=yollo4179)](https://solved.ac/profile/yollo4179)
+
 
 
 Here are some ideas to get you started:
