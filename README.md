@@ -27,7 +27,7 @@
 | 수상 | 프로젝트 |
 | --- | --- |
 | 🥇 **SSAFY 공통 프로젝트 1등** | [길봄](https://github.com/yollo4179/Gilbom-Core-Project-ssafy) |
-| 🥉 **SSAFY 특화 프로젝트 3등** | [SSketch](https://github.com/yollo4179/Ssketch-Specialize-Domoin-ssafy-) |
+| 🥉 **SSAFY 특화 프로젝트 3등** | [SSketch](https://github.com/yollo4179/Ssketch-Specialize-Domain-ssafy-) |
 
 ### 어학 및 자격증
 
@@ -86,7 +86,7 @@
 | 프로젝트 | 소개 및 담당 구현 | 기술 스택 |
 | --- | --- | --- |
 | [길봄 · 공통 프로젝트](https://github.com/yollo4179/Gilbom-Core-Project-ssafy) | 점자블록 순찰 로봇과 웹 관제를 연결한 AIoT 서비스. 웹·MQTT 통신, TLS·CA, Robot·Telemetry DB·SSE, 임무 API·관제 UI 담당 | Java 21, Spring Boot, PostgreSQL, MQTT 5, React, Playwright, Docker |
-| [SSketch · 특화 프로젝트](https://github.com/yollo4179/Ssketch-Specialize-Domoin-ssafy-) | 함께 그림을 그리고 쟁탈·평가하는 4인 멀티플레이 게임. Unity 클라이언트 프레임워크, 입력·동기화, C++ IOCP 서버, 음성 채팅 담당 | Unity, C#, C++, IOCP, TCP, UDP, Vivox |
+| [SSketch · 특화 프로젝트](https://github.com/yollo4179/Ssketch-Specialize-Domain-ssafy-) | 함께 그림을 그리고 쟁탈·평가하는 4인 멀티플레이 게임. Unity 클라이언트 프레임워크, 입력·동기화, C++ IOCP 서버, 음성 채팅 담당 | Unity, C#, C++, IOCP, TCP, UDP, Vivox |
 
 <br>
 
